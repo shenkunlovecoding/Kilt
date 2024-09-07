@@ -4,7 +4,7 @@
 A Fabric mod that brings (Neo)Forge mods into the Fabric ecosystem. Very experimental.
 
 ## FAQ (probably)
-### Why?
+### Why
 I like Fabric. And I hate Forge. More reasons [here](WHY.md).
 
 ### What about Patchwork?
